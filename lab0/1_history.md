@@ -18,7 +18,7 @@ ucore麻雀虽小，五脏俱全。在不超过5k的代码量中包含虚拟内�
 >
 > RISCV在嵌入式领域异军突起。嵌入式领域的巨头ARM公司受到威胁后，上线了一个网站riscv-basics.com，把RISC-V批判了一番，批判的方面包括：成本、生态系统、碎片化风险、安全性问题、设计验证。但最终迫于业界舆论恶评，ARM关闭了该网站。（cited from [Wikipedia: RISCV](https://zh.wikipedia.org/wiki/RISC-V#历史)）
 
-我们将ucore的代码移植到64位的RISC-V指令集架构，并借鉴[rcore tutorial](https://rcore-os.github.io/rCore_tutorial_doc/)的做法，改进实验指导书。通过本教程，你可以一步一步，一个模块一个模块地从零开始搭建出一个可以运行简单命令行的操作系统。由于使用了step by step的组织方式，每一章都假设你已经完成了前一章的内容阅读和实践，所以建议完成了前一章的实验学习再进入下一章。实验的所有参考代码可以在[这里](https://github.com/Liurunda/riscv64-ucore/)找到。
+我们将ucore的代码移植到64位的RISC-V指令集架构，并借鉴[rcore tutorial](https://rcore-os.github.io/rCore_tutorial_doc/)的做法，改进实验指导书。通过本教程，你可以一步一步，一个模块一个模块地从零开始搭建出一个可以运行简单命令行的操作系统。由于使用了step by step的组织方式，每一章都假设你已经完成了前一章的内容阅读和实践，所以建议完成了前一章的实验学习再进入下一章。
 
 那么还等什么，我们现在开始吧！
 

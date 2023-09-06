@@ -2,7 +2,7 @@
 
 #### 安装使用Linux实验环境
 
-这里我们主要以Ubuntu Linux （14.04及其以后版本）（64 bit）作为整个实验的系统软件环境。如果你使用windows系统，推荐在windows subsystem for linux（WSL) 下进行开发。
+这里我们主要以Ubuntu Linux （14.04及其以后版本）（64 bit）作为整个实验的系统软件环境。
 
 #### **使用Linux**
 
